@@ -191,5 +191,3 @@ order-service/
  └── k8s/
 ```
 
-Tell me what you want next 👌
-
